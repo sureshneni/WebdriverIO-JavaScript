@@ -39,7 +39,7 @@ This project demonstrates on how to use WebdriverIO with Javascript in automatio
 	Is this OK? (yes) yes   
 
 
-	Step 4: 
+4: 
 	Run the below command to add WebdriverIO dependencies and create package-lock.json file
 	C:\code\WebdriverIO_JS\WebdriverIO_Javascript> npm install webdriverio --save-dev
 	#To make sure above step is successful, we can check below dependency in package.json file been added.
@@ -49,7 +49,7 @@ This project demonstrates on how to use WebdriverIO with Javascript in automatio
   	}
 
 
-	Step 5: 
+Step 5: 
 	//Create wdio config file
 	C:\code\WebdriverIO_JS\WebdriverIO_Javascript> npm install @wdio/cli
 
